@@ -1,0 +1,158 @@
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe.config
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.pdb
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csprojResolveAssemblyReference.cache
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QLNH.resources
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Properties.Resources.resources
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_NhanVien.resources
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.GenerateResource.Cache
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.exe
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.pdb
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_MonAn.resources
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe.config
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.exe
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.pdb
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.pdb
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csprojResolveAssemblyReference.cache
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QLNH.resources
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Properties.Resources.resources
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_MonAn.resources
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_NhanVien.resources
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.GenerateResource.Cache
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Order.resources
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DonHang.resources
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DangNhap.resources
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.NhapHang.resources
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DoanhThu.resources
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe.config
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.exe
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.pdb
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.pdb
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DangNhap.resources
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DoanhThu.resources
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DonHang.resources
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.NhapHang.resources
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Order.resources
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QLNH.resources
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_MonAn.resources
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_NhanVien.resources
+E:\LuuDuLieuSinhVien\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.GenerateResource.Cache
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DangNhap.resources
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DoanhThu.resources
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DonHang.resources
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.NhapHang.resources
+F:\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Order.resources
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.resx
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.cs
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.Designer.cs
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DangNhapQL.resources
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.TrangChu.resources
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_BanAn.resources
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.HoaDon.resources
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.PhieuNhap.resources
+E:\học tập\CN.NET\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.HangHoa.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe.config
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.exe
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.pdb
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.resx
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.cs
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.Designer.cs
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.pdb
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csprojResolveAssemblyReference.cache
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DangNhap.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DangNhapQL.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DoanhThu.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DonHang.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.HangHoa.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.HoaDon.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.NhapHang.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Order.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.PhieuNhap.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QLNH.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Properties.Resources.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_BanAn.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_MonAn.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_NhanVien.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.TrangChu.resources
+F:\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe.config
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.exe
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.pdb
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.resx
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.cs
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.Designer.cs
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.pdb
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DangNhap.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DangNhapQL.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DoanhThu.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DonHang.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.HangHoa.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.HoaDon.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.NhapHang.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Order.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.PhieuNhap.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QLNH.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Properties.Resources.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_BanAn.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_MonAn.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_NhanVien.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.TrangChu.resources
+C:\Users\Administrator\Desktop\đồ án\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe.config
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.exe
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.pdb
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.resx
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.cs
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.Designer.cs
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.pdb
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DangNhap.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DangNhapQL.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DoanhThu.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DonHang.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.HangHoa.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.HoaDon.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.NhapHang.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Order.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.PhieuNhap.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QLNH.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_BanAn.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_MonAn.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_NhanVien.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.TrangChu.resources
+C:\Users\Administrator\Desktop\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.GenerateResource.Cache
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.resx
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.cs
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NhanVien.Designer.cs
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe.config
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.pdb
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.AssemblyReference.cache
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DangNhap.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DangNhapQL.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DoanhThu.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.DonHang.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.HangHoa.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.HoaDon.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.NhapHang.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Order.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.PhieuNhap.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QLNH.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Properties.Resources.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_BanAn.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_MonAn.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.QL_NhanVien.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.TrangChu.resources
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.GenerateResource.cache
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.CoreCompileInputs.cache
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.exe
+D:\học tập\CN.NET\Nhom_05\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.pdb
